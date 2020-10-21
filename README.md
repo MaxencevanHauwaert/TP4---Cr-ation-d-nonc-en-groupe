@@ -1,2 +1,2 @@
-# TP4---Cr-ation-d-nonc-en-groupe
+# TP4 - Cration d'un énnoncé de groupe
 Créer un programme - Liste de courses
