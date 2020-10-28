@@ -14,6 +14,13 @@ Dimitric tete toukam
 
 Yassine el barkani
 
+Cahier de Charge
+
+Le programme doit :
+  Montrer la liste de produits accompagné de sa catégorie et du nom de la personne qui a introduit
+    le produit.
+  Le programme doit aussi permettre le rajout de produits. Il faut aussi que l’on puisse filtrer par
+    catégorie et/ou par nom de la personne ayant rajouté le produit.
 
 Projet :
 
